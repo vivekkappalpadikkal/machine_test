@@ -3,18 +3,21 @@
 <h2>Add Qualifications for @Model.FirstName @Model.LastName</h2>
 
 <form asp-action="AddQualification" method="post">
-    <input type="hidden" name="id" value="@Model.StudentId" />
+    <input type="hidden" asp-for="StudentId" />
 
-    <div id="qualifications">
-        <div class="qualification">
-            <input name="qualifications[0].CourseName" placeholder="Course Name" class="form-control" />
-            <input name="qualifications[0].Percentage" placeholder="Percentage" class="form-control" />
-            <input name="qualifications[0].YearOfPassing" placeholder="Year of Passing" class="form-control" />
-        </div>
+    <div>
+        <label>Course Name:</label>
+        <input type="text" name="qualifications[0].CourseName" />
     </div>
-    <button type="submit">Save Qualifications</button>
+    <div>
+        <label>Percentage:</label>
+        <input type="number" name="qualifications[0].Percentage" />
+    </div>
+    <div>
+        <label>Year of Passing:</label>
+        <input type="number" name="qualifications[0].YearOfPassing" />
+    </div>
+    <!-- You can add more input fields if you want to submit multiple qualifications -->
+
+    <input type="submit" value="Add Qualification" />
 </form>
-
-
-
-

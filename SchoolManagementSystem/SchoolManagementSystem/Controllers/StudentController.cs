@@ -52,14 +52,13 @@ namespace SchoolManagementSystem.Controllers
         // GET: Student/Details/{id}
         public IActionResult Details(int id)
         {
-            var student = Students.Find(s => s.StudentId == id);
+            var student = Students.FirstOrDefault(s => s.StudentId == id);
             if (student == null)
                 return NotFound();
 
-            return View(student);
+            return View(student); // Pass the student object to the view.
         }
 
-        
 
 
         public IActionResult AddQualifications(int id)
@@ -68,19 +67,23 @@ namespace SchoolManagementSystem.Controllers
             if (student == null)
                 return NotFound();
 
-            return View();
+            return View(student); // Pass the student object to the view.
         }
 
         [HttpPost]
+        [Route("Student/AddQualification/{id}")]
         public IActionResult AddQualification(int id, List<Qualification> qualifications)
         {
             var student = Students.FirstOrDefault(s => s.StudentId == id);
             if (student == null)
                 return NotFound();
 
-            student.Qualifications.AddRange(qualifications);
-            
-             return RedirectToAction("Details", new { id = student.StudentId });
+            if (qualifications != null && qualifications.Any())
+            {
+                student.Qualifications.AddRange(qualifications);
+            }
+
+            return RedirectToAction("Details", new { id = student.StudentId });
         }
     }
 }

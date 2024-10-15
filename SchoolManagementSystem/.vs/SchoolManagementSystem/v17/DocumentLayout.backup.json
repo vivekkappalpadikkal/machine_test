@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\machine test\\SchoolManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D8E13FC-7092-4F02-ACA6-003BC5123DD0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\admin\\onedrive\\desktop\\machine test\\schoolmanagementsystem\\schoolmanagementsystem\\views\\student\\addqualifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D8E13FC-7092-4F02-ACA6-003BC5123DD0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\views\\student\\addqualifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8D8E13FC-7092-4F02-ACA6-003BC5123DD0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\admin\\onedrive\\desktop\\machine test\\schoolmanagementsystem\\schoolmanagementsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D8E13FC-7092-4F02-ACA6-003BC5123DD0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,24 +11,16 @@
       "RelativeMoniker": "D:0:0:{8D8E13FC-7092-4F02-ACA6-003BC5123DD0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8E13FC-7092-4F02-ACA6-003BC5123DD0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\admin\\onedrive\\desktop\\machine test\\schoolmanagementsystem\\schoolmanagementsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8E13FC-7092-4F02-ACA6-003BC5123DD0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D8E13FC-7092-4F02-ACA6-003BC5123DD0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\admin\\onedrive\\desktop\\machine test\\schoolmanagementsystem\\schoolmanagementsystem\\views\\student\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D8E13FC-7092-4F02-ACA6-003BC5123DD0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\views\\student\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8D8E13FC-7092-4F02-ACA6-003BC5123DD0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\admin\\onedrive\\desktop\\machine test\\schoolmanagementsystem\\schoolmanagementsystem\\views\\student\\addqualifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D8E13FC-7092-4F02-ACA6-003BC5123DD0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\views\\student\\addqualifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D8E13FC-7092-4F02-ACA6-003BC5123DD0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\admin\\onedrive\\desktop\\machine test\\schoolmanagementsystem\\schoolmanagementsystem\\views\\student\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8D8E13FC-7092-4F02-ACA6-003BC5123DD0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\views\\student\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D8E13FC-7092-4F02-ACA6-003BC5123DD0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\admin\\onedrive\\desktop\\machine test\\schoolmanagementsystem\\schoolmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D8E13FC-7092-4F02-ACA6-003BC5123DD0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D8E13FC-7092-4F02-ACA6-003BC5123DD0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\admin\\onedrive\\desktop\\machine test\\schoolmanagementsystem\\schoolmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D8E13FC-7092-4F02-ACA6-003BC5123DD0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8D8E13FC-7092-4F02-ACA6-003BC5123DD0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|c:\\users\\admin\\onedrive\\desktop\\machine test\\schoolmanagementsystem\\schoolmanagementsystem\\views\\student\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D8E13FC-7092-4F02-ACA6-003BC5123DD0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\views\\student\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,54 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\machine test\\SchoolManagementSystem\\SchoolManagementSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SchoolManagementSystem\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\machine test\\SchoolManagementSystem\\SchoolManagementSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SchoolManagementSystem\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T06:38:28.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\machine test\\SchoolManagementSystem\\SchoolManagementSystem\\Program.cs",
-              "RelativeDocumentMoniker": "SchoolManagementSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\machine test\\SchoolManagementSystem\\SchoolManagementSystem\\Program.cs",
-              "RelativeToolTip": "SchoolManagementSystem\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T06:32:19.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AddQualifications.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\machine test\\SchoolManagementSystem\\SchoolManagementSystem\\Views\\Student\\AddQualifications.cshtml",
               "RelativeDocumentMoniker": "SchoolManagementSystem\\Views\\Student\\AddQualifications.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\machine test\\SchoolManagementSystem\\SchoolManagementSystem\\Views\\Student\\AddQualifications.cshtml",
-              "RelativeToolTip": "SchoolManagementSystem\\Views\\Student\\AddQualifications.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\machine test\\SchoolManagementSystem\\SchoolManagementSystem\\Views\\Student\\AddQualifications.cshtml*",
+              "RelativeToolTip": "SchoolManagementSystem\\Views\\Student\\AddQualifications.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-15T06:31:32.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\machine test\\SchoolManagementSystem\\SchoolManagementSystem\\Views\\Student\\Login.cshtml",
               "RelativeDocumentMoniker": "SchoolManagementSystem\\Views\\Student\\Login.cshtml",
@@ -102,13 +60,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\machine test\\SchoolManagementSystem\\SchoolManagementSystem\\Views\\Student\\Details.cshtml",
               "RelativeDocumentMoniker": "SchoolManagementSystem\\Views\\Student\\Details.cshtml",
               "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\machine test\\SchoolManagementSystem\\SchoolManagementSystem\\Views\\Student\\Details.cshtml*",
               "RelativeToolTip": "SchoolManagementSystem\\Views\\Student\\Details.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-15T06:27:43.21Z",
               "EditorCaption": ""
@@ -128,28 +86,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\machine test\\SchoolManagementSystem\\SchoolManagementSystem\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "SchoolManagementSystem\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\machine test\\SchoolManagementSystem\\SchoolManagementSystem\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "SchoolManagementSystem\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowEoAAAAtAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\machine test\\SchoolManagementSystem\\SchoolManagementSystem\\Controllers\\StudentController.cs*",
+              "RelativeToolTip": "SchoolManagementSystem\\Controllers\\StudentController.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T06:21:06.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\machine test\\SchoolManagementSystem\\SchoolManagementSystem\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "SchoolManagementSystem\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\machine test\\SchoolManagementSystem\\SchoolManagementSystem\\Models\\Student.cs",
-              "RelativeToolTip": "SchoolManagementSystem\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T06:19:18.859Z",
               "EditorCaption": ""
             }
           ]
