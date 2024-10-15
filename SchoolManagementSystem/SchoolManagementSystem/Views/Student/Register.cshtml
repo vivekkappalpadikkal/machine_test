@@ -1,0 +1,48 @@
+﻿@model SchoolManagementSystem.Models.Student
+
+<h2>Student Registration Form</h2>
+
+<form asp-action="Register" method="post">
+    <div>
+        <label>First Name:</label>
+        <input asp-for="FirstName" class="form-control" />
+    </div>
+    <div>
+        <label>Last Name:</label>
+        <input asp-for="LastName" class="form-control" />
+    </div>
+    <div>
+        <label>Age:</label>
+        <input asp-for="Age" class="form-control" />
+    </div>
+    <div>
+        <label>Date of Birth:</label>
+        <input asp-for="DOB" type="date" class="form-control" />
+    </div>
+    <div>
+        <label>Gender:</label>
+        <select asp-for="Gender" class="form-control">
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+        </select>
+    </div>
+    <div>
+        <label>Email:</label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+    <div>
+        <label>Phone Number:</label>
+        <input asp-for="PhoneNumber" class="form-control" />
+    </div>
+    <div>
+        <label>Username:</label>
+        <input asp-for="Username" class="form-control" />
+    </div>
+    <div>
+        <label>Password:</label>
+        <input asp-for="Password" type="password" class="form-control" />
+    </div>
+
+    <button type="submit">Submit</button>
+</form>
+

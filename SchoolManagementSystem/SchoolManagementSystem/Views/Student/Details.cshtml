@@ -1,0 +1,25 @@
+﻿@model SchoolManagementSystem.Models.Student
+
+<h2>Student Details</h2>
+<div>
+    <label>Student ID:</label> @Model.StudentId
+</div>
+<div>
+    <label>First Name:</label> @Model.FirstName
+</div>
+<div>
+    <label>Last Name:</label> @Model.LastName
+</div>
+<!-- other student fields -->
+
+<div>
+    <h3>Qualifications</h3>
+    <ul>
+        @foreach (var qualification in Model.Qualifications)
+        {
+            <li>@qualification.CourseName - @qualification.Percentage% - Year: @qualification.YearOfPassing</li>
+        }
+    </ul>
+</div>
+
+<a asp-action="AddQualifications" class="btn btn-secondary">Add Qualification</a> <!-- Register Button -->

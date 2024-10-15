@@ -1,0 +1,16 @@
+﻿<h2>Login</h2>
+<form asp-action="Login" method="post">
+    <div>
+        <label>Username:</label>
+        <input name="username" class="form-control" />
+    </div>
+    <div>
+        <label>Password:</label>
+        <input name="password" type="password" class="form-control" />
+    </div>
+    <div>
+        <button type="submit" class="btn btn-primary">Login</button>
+        <a asp-action="Register" class="btn btn-secondary">Register</a> <!-- Register Button -->
+    </div>
+    <div>@ViewBag.Error</div>
+</form>

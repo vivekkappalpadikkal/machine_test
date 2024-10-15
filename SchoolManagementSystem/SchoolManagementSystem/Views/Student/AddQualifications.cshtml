@@ -1,0 +1,20 @@
+﻿@model SchoolManagementSystem.Models.Student
+
+<h2>Add Qualifications for @Model.FirstName @Model.LastName</h2>
+
+<form asp-action="AddQualification" method="post">
+    <input type="hidden" name="id" value="@Model.StudentId" />
+
+    <div id="qualifications">
+        <div class="qualification">
+            <input name="qualifications[0].CourseName" placeholder="Course Name" class="form-control" />
+            <input name="qualifications[0].Percentage" placeholder="Percentage" class="form-control" />
+            <input name="qualifications[0].YearOfPassing" placeholder="Year of Passing" class="form-control" />
+        </div>
+    </div>
+    <button type="submit">Save Qualifications</button>
+</form>
+
+
+
+
